@@ -52,3 +52,7 @@ Some records had 'nan' as a category, which was omitted while querying category-
 Name of a channel 김프로 KIMPRO (recorded as 'ýýýýýýýýý KIMPRO') was updated to 'KIMPRO'.
 
 Many records were missing entries in 'subscribers_for_last_30_days' column. These rows were updated with 0 subscribers_for_last_30_days, and the datatype changed to integer.
+
+# Full report
+
+It can be viewed in the pdf format uploaded here as 'Global YouTube Statistics.pdf'
